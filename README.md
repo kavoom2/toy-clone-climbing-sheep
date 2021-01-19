@@ -1,1 +1,2 @@
 # toy-clone-climbing-sheep
+[**Interactive Developer**](https://www.youtube.com/c/cmiscm)님의 [강의영상](https://www.youtube.com/watch?v=hCHL7sydzn0&list=PLGf_tBShGSDNGHhFBT4pKFRMpiBrZJXCm&index=1)을 실습한 코드입니다.
